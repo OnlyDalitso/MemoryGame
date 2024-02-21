@@ -13,4 +13,4 @@ start_x = -200
 start_y = 150
 
 wn = turtle.Screen()
-wn.bgcolor("red")
+wn.bgcolor("red")    
